@@ -1,0 +1,94 @@
+.container{
+    margin-bottom: 20px;
+}
+.logo{
+     width: 130.07px;
+height: 40px;
+}
+.button{
+    padding: 8px 10px;
+    width: 80px;
+    height: 40px;
+    background: #21B573;
+    border-radius: 33px;
+    border:none;
+    
+}
+.button:hover{
+    background-color: white;
+    color:green;
+    box-shadow: 8px 8px 20px rgb(170, 164, 164);
+}
+.head{
+    color: #21B573 ;
+}
+#but{
+width: 120px;
+}
+.first{
+    background-color:#F0FFF0;
+}
+.likha{
+    padding-left: 90px;
+    padding-right: 90px;
+}
+h5{
+    color: crimson;
+}
+.navi{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.cat{
+    height: 80px;
+    width: 80px;
+}
+.cata{
+    margin-left:15px;
+    padding:50px;
+    background-color:#F0FFF0;
+    height: 220px;
+    width: 220px;
+}
+.second{
+    text-align: center;
+}
+.cata:hover{
+    background-color: white;
+    box-shadow: 8px 8px 20px rgb(170, 164, 164);
+}
+.card{
+    border: none;
+    box-shadow: 8px 8px 20px rgb(211, 202, 202);
+    border-radius: 10px;
+}
+.emni{
+    padding: 50px;
+}
+.last{
+    margin-bottom: 80px;
+}
+.peop{
+width:30px;
+height: 30px;
+}
+.footi{
+    background-color:rgb(16, 16, 44);
+    color: white;
+    padding:50px 10px 10px 10px;
+}
+footer{
+    text-align:center;
+    background-color: rgb(16, 16, 44);
+    color: white;
+    margin: 0px;
+}
+ul{
+    list-style-type:none;
+}
+.light{
+    font-weight: lighter;
+}
+.nam{
+    font-weight: bolder;
+}
